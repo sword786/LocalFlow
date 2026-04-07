@@ -2,6 +2,10 @@
 
 **Build local, private AI agents visually. No cloud. No API keys. No data leaks.**
 
+✨ [Try the Live UI Playground Here] (https://local-flow-smoky.vercel.app) ✨
+
+*(Note: The live demo is a UI playground. To actually run the local AI models, clone the repo!)*
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
